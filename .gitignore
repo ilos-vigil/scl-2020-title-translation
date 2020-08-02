@@ -1,0 +1,5 @@
+data/wikivec/*.vec
+data/embedding/*.bin
+fastText/
+MUSE/
+wandb/

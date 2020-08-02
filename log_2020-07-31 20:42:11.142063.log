@@ -1,0 +1,2118 @@
+INFO:root:Start translating validation data with param #0
+INFO:root:('search', 5.0, 0.2, 'wiki')
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Dumping model to file cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.734 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+INFO:root:Start translating validation data with param #1
+INFO:root:('search', 5.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #2
+INFO:root:('search', 5.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #3
+INFO:root:('search', 5.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #4
+INFO:root:('search', 5.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #5
+INFO:root:('search', 5.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #6
+INFO:root:('search', 5.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #7
+INFO:root:('search', 5.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #8
+INFO:root:('search', 5.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #9
+INFO:root:('search', 5.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #10
+INFO:root:('search', 5.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #11
+INFO:root:('search', 5.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #12
+INFO:root:('search', 5.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #13
+INFO:root:('search', 5.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #14
+INFO:root:('search', 5.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #15
+INFO:root:('search', 5.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #16
+INFO:root:('search', 5.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #17
+INFO:root:('search', 5.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #18
+INFO:root:('search', 5.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #19
+INFO:root:('search', 5.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #20
+INFO:root:('search', 5.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #21
+INFO:root:('search', 5.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #22
+INFO:root:('search', 7.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #23
+INFO:root:('search', 7.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #24
+INFO:root:('search', 7.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #25
+INFO:root:('search', 7.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #26
+INFO:root:('search', 7.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #27
+INFO:root:('search', 7.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #28
+INFO:root:('search', 7.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #29
+INFO:root:('search', 7.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #30
+INFO:root:('search', 7.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #31
+INFO:root:('search', 7.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #32
+INFO:root:('search', 7.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #33
+INFO:root:('search', 7.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #34
+INFO:root:('search', 7.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #35
+INFO:root:('search', 7.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #36
+INFO:root:('search', 7.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #37
+INFO:root:('search', 7.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #38
+INFO:root:('search', 7.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #39
+INFO:root:('search', 7.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #40
+INFO:root:('search', 7.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #41
+INFO:root:('search', 7.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #42
+INFO:root:('search', 7.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #43
+INFO:root:('search', 7.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #44
+INFO:root:('search', 10.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #45
+INFO:root:('search', 10.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #46
+INFO:root:('search', 10.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #47
+INFO:root:('search', 10.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #48
+INFO:root:('search', 10.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #49
+INFO:root:('search', 10.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #50
+INFO:root:('search', 10.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #51
+INFO:root:('search', 10.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #52
+INFO:root:('search', 10.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #53
+INFO:root:('search', 10.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #54
+INFO:root:('search', 10.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #55
+INFO:root:('search', 10.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #56
+INFO:root:('search', 10.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #57
+INFO:root:('search', 10.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #58
+INFO:root:('search', 10.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #59
+INFO:root:('search', 10.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #60
+INFO:root:('search', 10.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #61
+INFO:root:('search', 10.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #62
+INFO:root:('search', 10.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #63
+INFO:root:('search', 10.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #64
+INFO:root:('search', 10.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #65
+INFO:root:('search', 10.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #66
+INFO:root:('search', 12.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #67
+INFO:root:('search', 12.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #68
+INFO:root:('search', 12.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #69
+INFO:root:('search', 12.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #70
+INFO:root:('search', 12.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #71
+INFO:root:('search', 12.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #72
+INFO:root:('search', 12.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #73
+INFO:root:('search', 12.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #74
+INFO:root:('search', 12.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #75
+INFO:root:('search', 12.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #76
+INFO:root:('search', 12.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #77
+INFO:root:('search', 12.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #78
+INFO:root:('search', 12.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #79
+INFO:root:('search', 12.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #80
+INFO:root:('search', 12.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #81
+INFO:root:('search', 12.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #82
+INFO:root:('search', 12.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #83
+INFO:root:('search', 12.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #84
+INFO:root:('search', 12.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #85
+INFO:root:('search', 12.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #86
+INFO:root:('search', 12.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #87
+INFO:root:('search', 12.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #88
+INFO:root:('search', 15.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #89
+INFO:root:('search', 15.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #90
+INFO:root:('search', 15.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #91
+INFO:root:('search', 15.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #92
+INFO:root:('search', 15.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #93
+INFO:root:('search', 15.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #94
+INFO:root:('search', 15.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #95
+INFO:root:('search', 15.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #96
+INFO:root:('search', 15.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #97
+INFO:root:('search', 15.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #98
+INFO:root:('search', 15.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #99
+INFO:root:('search', 15.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #100
+INFO:root:('search', 15.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #101
+INFO:root:('search', 15.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #102
+INFO:root:('search', 15.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #103
+INFO:root:('search', 15.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #104
+INFO:root:('search', 15.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #105
+INFO:root:('search', 15.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #106
+INFO:root:('search', 15.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #107
+INFO:root:('search', 15.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #108
+INFO:root:('search', 15.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #109
+INFO:root:('search', 15.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #110
+INFO:root:('search', 17.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #111
+INFO:root:('search', 17.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #112
+INFO:root:('search', 17.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #113
+INFO:root:('search', 17.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #114
+INFO:root:('search', 17.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #115
+INFO:root:('search', 17.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #116
+INFO:root:('search', 17.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #117
+INFO:root:('search', 17.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #118
+INFO:root:('search', 17.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #119
+INFO:root:('search', 17.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #120
+INFO:root:('search', 17.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #121
+INFO:root:('search', 17.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #122
+INFO:root:('search', 17.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #123
+INFO:root:('search', 17.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #124
+INFO:root:('search', 17.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #125
+INFO:root:('search', 17.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #126
+INFO:root:('search', 17.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #127
+INFO:root:('search', 17.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #128
+INFO:root:('search', 17.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #129
+INFO:root:('search', 17.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #130
+INFO:root:('search', 17.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #131
+INFO:root:('search', 17.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #132
+INFO:root:('search', 20.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #133
+INFO:root:('search', 20.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #134
+INFO:root:('search', 20.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #135
+INFO:root:('search', 20.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #136
+INFO:root:('search', 20.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #137
+INFO:root:('search', 20.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #138
+INFO:root:('search', 20.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #139
+INFO:root:('search', 20.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #140
+INFO:root:('search', 20.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #141
+INFO:root:('search', 20.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #142
+INFO:root:('search', 20.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #143
+INFO:root:('search', 20.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #144
+INFO:root:('search', 20.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #145
+INFO:root:('search', 20.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #146
+INFO:root:('search', 20.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #147
+INFO:root:('search', 20.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #148
+INFO:root:('search', 20.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #149
+INFO:root:('search', 20.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #150
+INFO:root:('search', 20.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #151
+INFO:root:('search', 20.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #152
+INFO:root:('search', 20.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #153
+INFO:root:('search', 20.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #154
+INFO:root:('search', 22.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #155
+INFO:root:('search', 22.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #156
+INFO:root:('search', 22.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #157
+INFO:root:('search', 22.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #158
+INFO:root:('search', 22.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #159
+INFO:root:('search', 22.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #160
+INFO:root:('search', 22.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #161
+INFO:root:('search', 22.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #162
+INFO:root:('search', 22.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #163
+INFO:root:('search', 22.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #164
+INFO:root:('search', 22.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #165
+INFO:root:('search', 22.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #166
+INFO:root:('search', 22.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #167
+INFO:root:('search', 22.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #168
+INFO:root:('search', 22.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #169
+INFO:root:('search', 22.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #170
+INFO:root:('search', 22.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #171
+INFO:root:('search', 22.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #172
+INFO:root:('search', 22.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #173
+INFO:root:('search', 22.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #174
+INFO:root:('search', 22.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #175
+INFO:root:('search', 22.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #176
+INFO:root:('search', 25.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #177
+INFO:root:('search', 25.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #178
+INFO:root:('search', 25.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #179
+INFO:root:('search', 25.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #180
+INFO:root:('search', 25.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #181
+INFO:root:('search', 25.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #182
+INFO:root:('search', 25.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #183
+INFO:root:('search', 25.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #184
+INFO:root:('search', 25.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #185
+INFO:root:('search', 25.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #186
+INFO:root:('search', 25.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #187
+INFO:root:('search', 25.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #188
+INFO:root:('search', 25.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #189
+INFO:root:('search', 25.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #190
+INFO:root:('search', 25.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #191
+INFO:root:('search', 25.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #192
+INFO:root:('search', 25.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #193
+INFO:root:('search', 25.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #194
+INFO:root:('search', 25.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #195
+INFO:root:('search', 25.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #196
+INFO:root:('search', 25.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #197
+INFO:root:('search', 25.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #198
+INFO:root:('search', 27.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #199
+INFO:root:('search', 27.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #200
+INFO:root:('search', 27.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #201
+INFO:root:('search', 27.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #202
+INFO:root:('search', 27.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #203
+INFO:root:('search', 27.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #204
+INFO:root:('search', 27.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #205
+INFO:root:('search', 27.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #206
+INFO:root:('search', 27.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #207
+INFO:root:('search', 27.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #208
+INFO:root:('search', 27.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #209
+INFO:root:('search', 27.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #210
+INFO:root:('search', 27.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #211
+INFO:root:('search', 27.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #212
+INFO:root:('search', 27.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #213
+INFO:root:('search', 27.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #214
+INFO:root:('search', 27.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #215
+INFO:root:('search', 27.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #216
+INFO:root:('search', 27.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #217
+INFO:root:('search', 27.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #218
+INFO:root:('search', 27.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #219
+INFO:root:('search', 27.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #220
+INFO:root:('search', 30.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #221
+INFO:root:('search', 30.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #222
+INFO:root:('search', 30.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #223
+INFO:root:('search', 30.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #224
+INFO:root:('search', 30.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #225
+INFO:root:('search', 30.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #226
+INFO:root:('search', 30.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #227
+INFO:root:('search', 30.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #228
+INFO:root:('search', 30.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #229
+INFO:root:('search', 30.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #230
+INFO:root:('search', 30.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #231
+INFO:root:('search', 30.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #232
+INFO:root:('search', 30.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #233
+INFO:root:('search', 30.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #234
+INFO:root:('search', 30.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #235
+INFO:root:('search', 30.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #236
+INFO:root:('search', 30.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #237
+INFO:root:('search', 30.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #238
+INFO:root:('search', 30.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #239
+INFO:root:('search', 30.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #240
+INFO:root:('search', 30.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #241
+INFO:root:('search', 30.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #242
+INFO:root:('search', 32.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #243
+INFO:root:('search', 32.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #244
+INFO:root:('search', 32.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #245
+INFO:root:('search', 32.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #246
+INFO:root:('search', 32.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #247
+INFO:root:('search', 32.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #248
+INFO:root:('search', 32.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #249
+INFO:root:('search', 32.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #250
+INFO:root:('search', 32.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #251
+INFO:root:('search', 32.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #252
+INFO:root:('search', 32.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #253
+INFO:root:('search', 32.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #254
+INFO:root:('search', 32.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #255
+INFO:root:('search', 32.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #256
+INFO:root:('search', 32.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #257
+INFO:root:('search', 32.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #258
+INFO:root:('search', 32.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #259
+INFO:root:('search', 32.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #260
+INFO:root:('search', 32.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #261
+INFO:root:('search', 32.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #262
+INFO:root:('search', 32.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #263
+INFO:root:('search', 32.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #264
+INFO:root:('search', 35.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #265
+INFO:root:('search', 35.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #266
+INFO:root:('search', 35.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #267
+INFO:root:('search', 35.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #268
+INFO:root:('search', 35.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #269
+INFO:root:('search', 35.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #270
+INFO:root:('search', 35.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #271
+INFO:root:('search', 35.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #272
+INFO:root:('search', 35.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #273
+INFO:root:('search', 35.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #274
+INFO:root:('search', 35.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #275
+INFO:root:('search', 35.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #276
+INFO:root:('search', 35.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #277
+INFO:root:('search', 35.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #278
+INFO:root:('search', 35.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #279
+INFO:root:('search', 35.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #280
+INFO:root:('search', 35.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #281
+INFO:root:('search', 35.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #282
+INFO:root:('search', 35.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #283
+INFO:root:('search', 35.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #284
+INFO:root:('search', 35.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #285
+INFO:root:('search', 35.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #286
+INFO:root:('search', 37.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #287
+INFO:root:('search', 37.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #288
+INFO:root:('search', 37.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #289
+INFO:root:('search', 37.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #290
+INFO:root:('search', 37.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #291
+INFO:root:('search', 37.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #292
+INFO:root:('search', 37.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #293
+INFO:root:('search', 37.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #294
+INFO:root:('search', 37.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #295
+INFO:root:('search', 37.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #296
+INFO:root:('search', 37.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #297
+INFO:root:('search', 37.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #298
+INFO:root:('search', 37.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #299
+INFO:root:('search', 37.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #300
+INFO:root:('search', 37.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #301
+INFO:root:('search', 37.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #302
+INFO:root:('search', 37.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #303
+INFO:root:('search', 37.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #304
+INFO:root:('search', 37.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #305
+INFO:root:('search', 37.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #306
+INFO:root:('search', 37.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #307
+INFO:root:('search', 37.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #308
+INFO:root:('search', 40.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #309
+INFO:root:('search', 40.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #310
+INFO:root:('search', 40.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #311
+INFO:root:('search', 40.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #312
+INFO:root:('search', 40.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #313
+INFO:root:('search', 40.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #314
+INFO:root:('search', 40.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #315
+INFO:root:('search', 40.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #316
+INFO:root:('search', 40.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #317
+INFO:root:('search', 40.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #318
+INFO:root:('search', 40.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #319
+INFO:root:('search', 40.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #320
+INFO:root:('search', 40.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #321
+INFO:root:('search', 40.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #322
+INFO:root:('search', 40.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #323
+INFO:root:('search', 40.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #324
+INFO:root:('search', 40.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #325
+INFO:root:('search', 40.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #326
+INFO:root:('search', 40.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #327
+INFO:root:('search', 40.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #328
+INFO:root:('search', 40.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #329
+INFO:root:('search', 40.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #330
+INFO:root:('search', 42.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #331
+INFO:root:('search', 42.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #332
+INFO:root:('search', 42.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #333
+INFO:root:('search', 42.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #334
+INFO:root:('search', 42.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #335
+INFO:root:('search', 42.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #336
+INFO:root:('search', 42.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #337
+INFO:root:('search', 42.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #338
+INFO:root:('search', 42.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #339
+INFO:root:('search', 42.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #340
+INFO:root:('search', 42.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #341
+INFO:root:('search', 42.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #342
+INFO:root:('search', 42.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #343
+INFO:root:('search', 42.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #344
+INFO:root:('search', 42.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #345
+INFO:root:('search', 42.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #346
+INFO:root:('search', 42.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #347
+INFO:root:('search', 42.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #348
+INFO:root:('search', 42.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #349
+INFO:root:('search', 42.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #350
+INFO:root:('search', 42.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #351
+INFO:root:('search', 42.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #352
+INFO:root:('default', 5.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #353
+INFO:root:('default', 5.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #354
+INFO:root:('default', 5.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #355
+INFO:root:('default', 5.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #356
+INFO:root:('default', 5.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #357
+INFO:root:('default', 5.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #358
+INFO:root:('default', 5.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #359
+INFO:root:('default', 5.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #360
+INFO:root:('default', 5.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #361
+INFO:root:('default', 5.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #362
+INFO:root:('default', 5.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #363
+INFO:root:('default', 5.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #364
+INFO:root:('default', 5.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #365
+INFO:root:('default', 5.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #366
+INFO:root:('default', 5.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #367
+INFO:root:('default', 5.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #368
+INFO:root:('default', 5.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #369
+INFO:root:('default', 5.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #370
+INFO:root:('default', 5.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #371
+INFO:root:('default', 5.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #372
+INFO:root:('default', 5.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #373
+INFO:root:('default', 5.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #374
+INFO:root:('default', 7.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #375
+INFO:root:('default', 7.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #376
+INFO:root:('default', 7.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #377
+INFO:root:('default', 7.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #378
+INFO:root:('default', 7.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #379
+INFO:root:('default', 7.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #380
+INFO:root:('default', 7.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #381
+INFO:root:('default', 7.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #382
+INFO:root:('default', 7.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #383
+INFO:root:('default', 7.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #384
+INFO:root:('default', 7.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #385
+INFO:root:('default', 7.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #386
+INFO:root:('default', 7.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #387
+INFO:root:('default', 7.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #388
+INFO:root:('default', 7.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #389
+INFO:root:('default', 7.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #390
+INFO:root:('default', 7.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #391
+INFO:root:('default', 7.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #392
+INFO:root:('default', 7.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #393
+INFO:root:('default', 7.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #394
+INFO:root:('default', 7.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #395
+INFO:root:('default', 7.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #396
+INFO:root:('default', 10.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #397
+INFO:root:('default', 10.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #398
+INFO:root:('default', 10.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #399
+INFO:root:('default', 10.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #400
+INFO:root:('default', 10.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #401
+INFO:root:('default', 10.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #402
+INFO:root:('default', 10.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #403
+INFO:root:('default', 10.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #404
+INFO:root:('default', 10.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #405
+INFO:root:('default', 10.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #406
+INFO:root:('default', 10.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #407
+INFO:root:('default', 10.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #408
+INFO:root:('default', 10.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #409
+INFO:root:('default', 10.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #410
+INFO:root:('default', 10.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #411
+INFO:root:('default', 10.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #412
+INFO:root:('default', 10.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #413
+INFO:root:('default', 10.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #414
+INFO:root:('default', 10.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #415
+INFO:root:('default', 10.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #416
+INFO:root:('default', 10.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #417
+INFO:root:('default', 10.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #418
+INFO:root:('default', 12.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #419
+INFO:root:('default', 12.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #420
+INFO:root:('default', 12.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #421
+INFO:root:('default', 12.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #422
+INFO:root:('default', 12.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #423
+INFO:root:('default', 12.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #424
+INFO:root:('default', 12.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #425
+INFO:root:('default', 12.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #426
+INFO:root:('default', 12.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #427
+INFO:root:('default', 12.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #428
+INFO:root:('default', 12.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #429
+INFO:root:('default', 12.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #430
+INFO:root:('default', 12.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #431
+INFO:root:('default', 12.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #432
+INFO:root:('default', 12.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #433
+INFO:root:('default', 12.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #434
+INFO:root:('default', 12.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #435
+INFO:root:('default', 12.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #436
+INFO:root:('default', 12.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #437
+INFO:root:('default', 12.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #438
+INFO:root:('default', 12.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #439
+INFO:root:('default', 12.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #440
+INFO:root:('default', 15.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #441
+INFO:root:('default', 15.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #442
+INFO:root:('default', 15.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #443
+INFO:root:('default', 15.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #444
+INFO:root:('default', 15.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #445
+INFO:root:('default', 15.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #446
+INFO:root:('default', 15.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #447
+INFO:root:('default', 15.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #448
+INFO:root:('default', 15.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #449
+INFO:root:('default', 15.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #450
+INFO:root:('default', 15.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #451
+INFO:root:('default', 15.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #452
+INFO:root:('default', 15.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #453
+INFO:root:('default', 15.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #454
+INFO:root:('default', 15.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #455
+INFO:root:('default', 15.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #456
+INFO:root:('default', 15.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #457
+INFO:root:('default', 15.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #458
+INFO:root:('default', 15.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #459
+INFO:root:('default', 15.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #460
+INFO:root:('default', 15.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #461
+INFO:root:('default', 15.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #462
+INFO:root:('default', 17.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #463
+INFO:root:('default', 17.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #464
+INFO:root:('default', 17.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #465
+INFO:root:('default', 17.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #466
+INFO:root:('default', 17.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #467
+INFO:root:('default', 17.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #468
+INFO:root:('default', 17.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #469
+INFO:root:('default', 17.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #470
+INFO:root:('default', 17.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #471
+INFO:root:('default', 17.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #472
+INFO:root:('default', 17.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #473
+INFO:root:('default', 17.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #474
+INFO:root:('default', 17.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #475
+INFO:root:('default', 17.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #476
+INFO:root:('default', 17.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #477
+INFO:root:('default', 17.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #478
+INFO:root:('default', 17.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #479
+INFO:root:('default', 17.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #480
+INFO:root:('default', 17.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #481
+INFO:root:('default', 17.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #482
+INFO:root:('default', 17.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #483
+INFO:root:('default', 17.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #484
+INFO:root:('default', 20.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #485
+INFO:root:('default', 20.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #486
+INFO:root:('default', 20.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #487
+INFO:root:('default', 20.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #488
+INFO:root:('default', 20.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #489
+INFO:root:('default', 20.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #490
+INFO:root:('default', 20.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #491
+INFO:root:('default', 20.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #492
+INFO:root:('default', 20.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #493
+INFO:root:('default', 20.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #494
+INFO:root:('default', 20.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #495
+INFO:root:('default', 20.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #496
+INFO:root:('default', 20.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #497
+INFO:root:('default', 20.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #498
+INFO:root:('default', 20.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #499
+INFO:root:('default', 20.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #500
+INFO:root:('default', 20.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #501
+INFO:root:('default', 20.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #502
+INFO:root:('default', 20.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #503
+INFO:root:('default', 20.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #504
+INFO:root:('default', 20.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #505
+INFO:root:('default', 20.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #506
+INFO:root:('default', 22.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #507
+INFO:root:('default', 22.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #508
+INFO:root:('default', 22.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #509
+INFO:root:('default', 22.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #510
+INFO:root:('default', 22.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #511
+INFO:root:('default', 22.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #512
+INFO:root:('default', 22.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #513
+INFO:root:('default', 22.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #514
+INFO:root:('default', 22.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #515
+INFO:root:('default', 22.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #516
+INFO:root:('default', 22.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #517
+INFO:root:('default', 22.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #518
+INFO:root:('default', 22.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #519
+INFO:root:('default', 22.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #520
+INFO:root:('default', 22.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #521
+INFO:root:('default', 22.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #522
+INFO:root:('default', 22.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #523
+INFO:root:('default', 22.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #524
+INFO:root:('default', 22.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #525
+INFO:root:('default', 22.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #526
+INFO:root:('default', 22.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #527
+INFO:root:('default', 22.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #528
+INFO:root:('default', 25.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #529
+INFO:root:('default', 25.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #530
+INFO:root:('default', 25.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #531
+INFO:root:('default', 25.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #532
+INFO:root:('default', 25.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #533
+INFO:root:('default', 25.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #534
+INFO:root:('default', 25.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #535
+INFO:root:('default', 25.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #536
+INFO:root:('default', 25.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #537
+INFO:root:('default', 25.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #538
+INFO:root:('default', 25.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #539
+INFO:root:('default', 25.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #540
+INFO:root:('default', 25.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #541
+INFO:root:('default', 25.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #542
+INFO:root:('default', 25.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #543
+INFO:root:('default', 25.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #544
+INFO:root:('default', 25.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #545
+INFO:root:('default', 25.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #546
+INFO:root:('default', 25.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #547
+INFO:root:('default', 25.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #548
+INFO:root:('default', 25.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #549
+INFO:root:('default', 25.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #550
+INFO:root:('default', 27.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #551
+INFO:root:('default', 27.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #552
+INFO:root:('default', 27.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #553
+INFO:root:('default', 27.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #554
+INFO:root:('default', 27.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #555
+INFO:root:('default', 27.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #556
+INFO:root:('default', 27.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #557
+INFO:root:('default', 27.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #558
+INFO:root:('default', 27.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #559
+INFO:root:('default', 27.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #560
+INFO:root:('default', 27.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #561
+INFO:root:('default', 27.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #562
+INFO:root:('default', 27.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #563
+INFO:root:('default', 27.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #564
+INFO:root:('default', 27.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #565
+INFO:root:('default', 27.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #566
+INFO:root:('default', 27.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #567
+INFO:root:('default', 27.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #568
+INFO:root:('default', 27.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #569
+INFO:root:('default', 27.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #570
+INFO:root:('default', 27.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #571
+INFO:root:('default', 27.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #572
+INFO:root:('default', 30.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #573
+INFO:root:('default', 30.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #574
+INFO:root:('default', 30.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #575
+INFO:root:('default', 30.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #576
+INFO:root:('default', 30.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #577
+INFO:root:('default', 30.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #578
+INFO:root:('default', 30.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #579
+INFO:root:('default', 30.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #580
+INFO:root:('default', 30.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #581
+INFO:root:('default', 30.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #582
+INFO:root:('default', 30.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #583
+INFO:root:('default', 30.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #584
+INFO:root:('default', 30.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #585
+INFO:root:('default', 30.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #586
+INFO:root:('default', 30.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #587
+INFO:root:('default', 30.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #588
+INFO:root:('default', 30.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #589
+INFO:root:('default', 30.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #590
+INFO:root:('default', 30.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #591
+INFO:root:('default', 30.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #592
+INFO:root:('default', 30.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #593
+INFO:root:('default', 30.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #594
+INFO:root:('default', 32.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #595
+INFO:root:('default', 32.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #596
+INFO:root:('default', 32.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #597
+INFO:root:('default', 32.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #598
+INFO:root:('default', 32.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #599
+INFO:root:('default', 32.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #600
+INFO:root:('default', 32.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #601
+INFO:root:('default', 32.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #602
+INFO:root:('default', 32.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #603
+INFO:root:('default', 32.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #604
+INFO:root:('default', 32.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #605
+INFO:root:('default', 32.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #606
+INFO:root:('default', 32.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #607
+INFO:root:('default', 32.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #608
+INFO:root:('default', 32.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #609
+INFO:root:('default', 32.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #610
+INFO:root:('default', 32.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #611
+INFO:root:('default', 32.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #612
+INFO:root:('default', 32.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #613
+INFO:root:('default', 32.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #614
+INFO:root:('default', 32.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #615
+INFO:root:('default', 32.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #616
+INFO:root:('default', 35.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #617
+INFO:root:('default', 35.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #618
+INFO:root:('default', 35.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #619
+INFO:root:('default', 35.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #620
+INFO:root:('default', 35.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #621
+INFO:root:('default', 35.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #622
+INFO:root:('default', 35.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #623
+INFO:root:('default', 35.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #624
+INFO:root:('default', 35.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #625
+INFO:root:('default', 35.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #626
+INFO:root:('default', 35.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #627
+INFO:root:('default', 35.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #628
+INFO:root:('default', 35.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #629
+INFO:root:('default', 35.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #630
+INFO:root:('default', 35.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #631
+INFO:root:('default', 35.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #632
+INFO:root:('default', 35.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #633
+INFO:root:('default', 35.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #634
+INFO:root:('default', 35.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #635
+INFO:root:('default', 35.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #636
+INFO:root:('default', 35.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #637
+INFO:root:('default', 35.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #638
+INFO:root:('default', 37.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #639
+INFO:root:('default', 37.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #640
+INFO:root:('default', 37.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #641
+INFO:root:('default', 37.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #642
+INFO:root:('default', 37.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #643
+INFO:root:('default', 37.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #644
+INFO:root:('default', 37.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #645
+INFO:root:('default', 37.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #646
+INFO:root:('default', 37.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #647
+INFO:root:('default', 37.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #648
+INFO:root:('default', 37.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #649
+INFO:root:('default', 37.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #650
+INFO:root:('default', 37.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #651
+INFO:root:('default', 37.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #652
+INFO:root:('default', 37.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #653
+INFO:root:('default', 37.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #654
+INFO:root:('default', 37.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #655
+INFO:root:('default', 37.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #656
+INFO:root:('default', 37.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #657
+INFO:root:('default', 37.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #658
+INFO:root:('default', 37.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #659
+INFO:root:('default', 37.5, 0.7, 'ours')
+INFO:root:Start translating validation data with param #660
+INFO:root:('default', 40.0, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #661
+INFO:root:('default', 40.0, 0.2, 'ours')
+INFO:root:Start translating validation data with param #662
+INFO:root:('default', 40.0, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #663
+INFO:root:('default', 40.0, 0.25, 'ours')
+INFO:root:Start translating validation data with param #664
+INFO:root:('default', 40.0, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #665
+INFO:root:('default', 40.0, 0.3, 'ours')
+INFO:root:Start translating validation data with param #666
+INFO:root:('default', 40.0, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #667
+INFO:root:('default', 40.0, 0.35, 'ours')
+INFO:root:Start translating validation data with param #668
+INFO:root:('default', 40.0, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #669
+INFO:root:('default', 40.0, 0.4, 'ours')
+INFO:root:Start translating validation data with param #670
+INFO:root:('default', 40.0, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #671
+INFO:root:('default', 40.0, 0.45, 'ours')
+INFO:root:Start translating validation data with param #672
+INFO:root:('default', 40.0, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #673
+INFO:root:('default', 40.0, 0.5, 'ours')
+INFO:root:Start translating validation data with param #674
+INFO:root:('default', 40.0, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #675
+INFO:root:('default', 40.0, 0.55, 'ours')
+INFO:root:Start translating validation data with param #676
+INFO:root:('default', 40.0, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #677
+INFO:root:('default', 40.0, 0.6, 'ours')
+INFO:root:Start translating validation data with param #678
+INFO:root:('default', 40.0, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #679
+INFO:root:('default', 40.0, 0.65, 'ours')
+INFO:root:Start translating validation data with param #680
+INFO:root:('default', 40.0, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #681
+INFO:root:('default', 40.0, 0.7, 'ours')
+INFO:root:Start translating validation data with param #682
+INFO:root:('default', 42.5, 0.2, 'wiki')
+INFO:root:Start translating validation data with param #683
+INFO:root:('default', 42.5, 0.2, 'ours')
+INFO:root:Start translating validation data with param #684
+INFO:root:('default', 42.5, 0.25, 'wiki')
+INFO:root:Start translating validation data with param #685
+INFO:root:('default', 42.5, 0.25, 'ours')
+INFO:root:Start translating validation data with param #686
+INFO:root:('default', 42.5, 0.3, 'wiki')
+INFO:root:Start translating validation data with param #687
+INFO:root:('default', 42.5, 0.3, 'ours')
+INFO:root:Start translating validation data with param #688
+INFO:root:('default', 42.5, 0.35, 'wiki')
+INFO:root:Start translating validation data with param #689
+INFO:root:('default', 42.5, 0.35, 'ours')
+INFO:root:Start translating validation data with param #690
+INFO:root:('default', 42.5, 0.4, 'wiki')
+INFO:root:Start translating validation data with param #691
+INFO:root:('default', 42.5, 0.4, 'ours')
+INFO:root:Start translating validation data with param #692
+INFO:root:('default', 42.5, 0.45, 'wiki')
+INFO:root:Start translating validation data with param #693
+INFO:root:('default', 42.5, 0.45, 'ours')
+INFO:root:Start translating validation data with param #694
+INFO:root:('default', 42.5, 0.5, 'wiki')
+INFO:root:Start translating validation data with param #695
+INFO:root:('default', 42.5, 0.5, 'ours')
+INFO:root:Start translating validation data with param #696
+INFO:root:('default', 42.5, 0.55, 'wiki')
+INFO:root:Start translating validation data with param #697
+INFO:root:('default', 42.5, 0.55, 'ours')
+INFO:root:Start translating validation data with param #698
+INFO:root:('default', 42.5, 0.6, 'wiki')
+INFO:root:Start translating validation data with param #699
+INFO:root:('default', 42.5, 0.6, 'ours')
+INFO:root:Start translating validation data with param #700
+INFO:root:('default', 42.5, 0.65, 'wiki')
+INFO:root:Start translating validation data with param #701
+INFO:root:('default', 42.5, 0.65, 'ours')
+INFO:root:Start translating validation data with param #702
+INFO:root:('default', 42.5, 0.7, 'wiki')
+INFO:root:Start translating validation data with param #703
+INFO:root:('default', 42.5, 0.7, 'ours')
+INFO:root:Bleu score for param 0: 19.12699204234897
+INFO:root:Bleu score for param 1: 19.12699204234897
+INFO:root:Bleu score for param 2: 19.130286443528398
+INFO:root:Bleu score for param 3: 19.130286443528398
+INFO:root:Bleu score for param 4: 19.132372990051543
+INFO:root:Bleu score for param 5: 19.132372990051543
+INFO:root:Bleu score for param 6: 19.147482372287325
+INFO:root:Bleu score for param 7: 19.147482372287325
+INFO:root:Bleu score for param 8: 19.461353188326058
+INFO:root:Bleu score for param 9: 19.461353188326058
+INFO:root:Bleu score for param 10: 20.123357104568186
+INFO:root:Bleu score for param 11: 20.123357104568186
+INFO:root:Bleu score for param 12: 21.92009976838403
+INFO:root:Bleu score for param 13: 21.92009976838403
+INFO:root:Bleu score for param 14: 24.869039012244265
+INFO:root:Bleu score for param 15: 24.870291387371598
+INFO:root:Bleu score for param 16: 26.599534607816775
+INFO:root:Bleu score for param 17: 26.600812111103497
+INFO:root:Bleu score for param 18: 27.022394390164663
+INFO:root:Bleu score for param 19: 27.02367912140134
+INFO:root:Bleu score for param 20: 27.16720939951434
+INFO:root:Bleu score for param 21: 27.168493203095164
+INFO:root:Bleu score for param 22: 19.12699204234897
+INFO:root:Bleu score for param 23: 19.12699204234897
+INFO:root:Bleu score for param 24: 19.130286443528398
+INFO:root:Bleu score for param 25: 19.130286443528398
+INFO:root:Bleu score for param 26: 19.132372990051543
+INFO:root:Bleu score for param 27: 19.132372990051543
+INFO:root:Bleu score for param 28: 19.147482372287325
+INFO:root:Bleu score for param 29: 19.147482372287325
+INFO:root:Bleu score for param 30: 19.461353188326058
+INFO:root:Bleu score for param 31: 19.461353188326058
+INFO:root:Bleu score for param 32: 20.056286576209693
+INFO:root:Bleu score for param 33: 20.123357104568186
+INFO:root:Bleu score for param 34: 21.713595455975327
+INFO:root:Bleu score for param 35: 21.92009976838403
+INFO:root:Bleu score for param 36: 23.796827462982183
+INFO:root:Bleu score for param 37: 24.870291387371598
+INFO:root:Bleu score for param 38: 25.05116685528125
+INFO:root:Bleu score for param 39: 26.600812111103497
+INFO:root:Bleu score for param 40: 25.417256257836005
+INFO:root:Bleu score for param 41: 27.02367912140134
+INFO:root:Bleu score for param 42: 25.55886086156062
+INFO:root:Bleu score for param 43: 27.168493203095164
+INFO:root:Bleu score for param 44: 19.12699204234897
+INFO:root:Bleu score for param 45: 19.12699204234897
+INFO:root:Bleu score for param 46: 19.129077998656857
+INFO:root:Bleu score for param 47: 19.130286443528398
+INFO:root:Bleu score for param 48: 19.13116441337453
+INFO:root:Bleu score for param 49: 19.132372990051543
+INFO:root:Bleu score for param 50: 19.1462734520949
+INFO:root:Bleu score for param 51: 19.147482372287325
+INFO:root:Bleu score for param 52: 19.418482230743823
+INFO:root:Bleu score for param 53: 19.461353188326058
+INFO:root:Bleu score for param 54: 19.84796282200832
+INFO:root:Bleu score for param 55: 20.123357104568186
+INFO:root:Bleu score for param 56: 20.802231545254948
+INFO:root:Bleu score for param 57: 21.92009976838403
+INFO:root:Bleu score for param 58: 22.240294954374335
+INFO:root:Bleu score for param 59: 24.870291387371598
+INFO:root:Bleu score for param 60: 22.80445295964444
+INFO:root:Bleu score for param 61: 26.600812111103497
+INFO:root:Bleu score for param 62: 22.90505439950657
+INFO:root:Bleu score for param 63: 27.02367912140134
+INFO:root:Bleu score for param 64: 22.909755973689716
+INFO:root:Bleu score for param 65: 27.168493203095164
+INFO:root:Bleu score for param 66: 19.12699204234897
+INFO:root:Bleu score for param 67: 19.12699204234897
+INFO:root:Bleu score for param 68: 19.129077998656857
+INFO:root:Bleu score for param 69: 19.130286443528398
+INFO:root:Bleu score for param 70: 19.13116441337453
+INFO:root:Bleu score for param 71: 19.132372990051543
+INFO:root:Bleu score for param 72: 19.1462734520949
+INFO:root:Bleu score for param 73: 19.147482372287325
+INFO:root:Bleu score for param 74: 19.382501491641673
+INFO:root:Bleu score for param 75: 19.461353188326058
+INFO:root:Bleu score for param 76: 19.633203125597454
+INFO:root:Bleu score for param 77: 20.123357104568186
+INFO:root:Bleu score for param 78: 20.062016860621615
+INFO:root:Bleu score for param 79: 21.92009976838403
+INFO:root:Bleu score for param 80: 20.73442581347289
+INFO:root:Bleu score for param 81: 24.870291387371598
+INFO:root:Bleu score for param 82: 21.082492605241228
+INFO:root:Bleu score for param 83: 26.600812111103497
+INFO:root:Bleu score for param 84: 21.144716544015886
+INFO:root:Bleu score for param 85: 27.02367912140134
+INFO:root:Bleu score for param 86: 21.144716544015886
+INFO:root:Bleu score for param 87: 27.168493203095164
+INFO:root:Bleu score for param 88: 19.129077998656857
+INFO:root:Bleu score for param 89: 19.129077998656857
+INFO:root:Bleu score for param 90: 19.13116441337453
+INFO:root:Bleu score for param 91: 19.132372990051543
+INFO:root:Bleu score for param 92: 19.13116441337453
+INFO:root:Bleu score for param 93: 19.134459995165695
+INFO:root:Bleu score for param 94: 19.13863538177638
+INFO:root:Bleu score for param 95: 19.149572182314266
+INFO:root:Bleu score for param 96: 19.292853739091335
+INFO:root:Bleu score for param 97: 19.463480082190554
+INFO:root:Bleu score for param 98: 19.417793389567695
+INFO:root:Bleu score for param 99: 20.123357104568186
+INFO:root:Bleu score for param 100: 19.593601138054296
+INFO:root:Bleu score for param 101: 21.92009976838403
+INFO:root:Bleu score for param 102: 19.781659180165384
+INFO:root:Bleu score for param 103: 24.870291387371598
+INFO:root:Bleu score for param 104: 20.046318890863976
+INFO:root:Bleu score for param 105: 26.600812111103497
+INFO:root:Bleu score for param 106: 20.099949328538965
+INFO:root:Bleu score for param 107: 27.02367912140134
+INFO:root:Bleu score for param 108: 20.099949328538965
+INFO:root:Bleu score for param 109: 27.168493203095164
+INFO:root:Bleu score for param 110: 19.129077998656857
+INFO:root:Bleu score for param 111: 19.129077998656857
+INFO:root:Bleu score for param 112: 19.13116441337453
+INFO:root:Bleu score for param 113: 19.132372990051543
+INFO:root:Bleu score for param 114: 19.13116441337453
+INFO:root:Bleu score for param 115: 19.134459995165695
+INFO:root:Bleu score for param 116: 19.13654745902317
+INFO:root:Bleu score for param 117: 19.149572182314266
+INFO:root:Bleu score for param 118: 19.197833040353533
+INFO:root:Bleu score for param 119: 19.463480082190554
+INFO:root:Bleu score for param 120: 19.27277126187176
+INFO:root:Bleu score for param 121: 20.123357104568186
+INFO:root:Bleu score for param 122: 19.355946348491564
+INFO:root:Bleu score for param 123: 21.92009976838403
+INFO:root:Bleu score for param 124: 19.420991477302778
+INFO:root:Bleu score for param 125: 24.870291387371598
+INFO:root:Bleu score for param 126: 19.587103183517126
+INFO:root:Bleu score for param 127: 26.600812111103497
+INFO:root:Bleu score for param 128: 19.64068151423008
+INFO:root:Bleu score for param 129: 27.02367912140134
+INFO:root:Bleu score for param 130: 19.64068151423008
+INFO:root:Bleu score for param 131: 27.168493203095164
+INFO:root:Bleu score for param 132: 19.129077998656857
+INFO:root:Bleu score for param 133: 19.129077998656857
+INFO:root:Bleu score for param 134: 19.13116441337453
+INFO:root:Bleu score for param 135: 19.132372990051543
+INFO:root:Bleu score for param 136: 19.13116441337453
+INFO:root:Bleu score for param 137: 19.134459995165695
+INFO:root:Bleu score for param 138: 19.134459995165695
+INFO:root:Bleu score for param 139: 19.149572182314266
+INFO:root:Bleu score for param 140: 19.170351775752007
+INFO:root:Bleu score for param 141: 19.463480082190554
+INFO:root:Bleu score for param 142: 19.23864044273473
+INFO:root:Bleu score for param 143: 20.123357104568186
+INFO:root:Bleu score for param 144: 19.281061683128275
+INFO:root:Bleu score for param 145: 21.92009976838403
+INFO:root:Bleu score for param 146: 19.298685555551014
+INFO:root:Bleu score for param 147: 24.870291387371598
+INFO:root:Bleu score for param 148: 19.33622427325249
+INFO:root:Bleu score for param 149: 26.600812111103497
+INFO:root:Bleu score for param 150: 19.3482440616593
+INFO:root:Bleu score for param 151: 27.02367912140134
+INFO:root:Bleu score for param 152: 19.3482440616593
+INFO:root:Bleu score for param 153: 27.168493203095164
+INFO:root:Bleu score for param 154: 19.129077998656857
+INFO:root:Bleu score for param 155: 19.129077998656857
+INFO:root:Bleu score for param 156: 19.13116441337453
+INFO:root:Bleu score for param 157: 19.132372990051543
+INFO:root:Bleu score for param 158: 19.13116441337453
+INFO:root:Bleu score for param 159: 19.134459995165695
+INFO:root:Bleu score for param 160: 19.134459995165695
+INFO:root:Bleu score for param 161: 19.149572182314266
+INFO:root:Bleu score for param 162: 19.153099860599433
+INFO:root:Bleu score for param 163: 19.463480082190554
+INFO:root:Bleu score for param 164: 19.21308270382463
+INFO:root:Bleu score for param 165: 20.123357104568186
+INFO:root:Bleu score for param 166: 19.232509802986037
+INFO:root:Bleu score for param 167: 21.92009976838403
+INFO:root:Bleu score for param 168: 19.23854732054113
+INFO:root:Bleu score for param 169: 24.870291387371598
+INFO:root:Bleu score for param 170: 19.24578484667694
+INFO:root:Bleu score for param 171: 26.600812111103497
+INFO:root:Bleu score for param 172: 19.255422198142924
+INFO:root:Bleu score for param 173: 27.02367912140134
+INFO:root:Bleu score for param 174: 19.255422198142924
+INFO:root:Bleu score for param 175: 27.168493203095164
+INFO:root:Bleu score for param 176: 19.129077998656857
+INFO:root:Bleu score for param 177: 19.129077998656857
+INFO:root:Bleu score for param 178: 19.13116441337453
+INFO:root:Bleu score for param 179: 19.132372990051543
+INFO:root:Bleu score for param 180: 19.13116441337453
+INFO:root:Bleu score for param 181: 19.134459995165695
+INFO:root:Bleu score for param 182: 19.134459995165695
+INFO:root:Bleu score for param 183: 19.149572182314266
+INFO:root:Bleu score for param 184: 19.143863736685873
+INFO:root:Bleu score for param 185: 19.463480082190554
+INFO:root:Bleu score for param 186: 19.172944696301048
+INFO:root:Bleu score for param 187: 20.123357104568186
+INFO:root:Bleu score for param 188: 19.18123706161705
+INFO:root:Bleu score for param 189: 21.92009976838403
+INFO:root:Bleu score for param 190: 19.186064352061255
+INFO:root:Bleu score for param 191: 24.870291387371598
+INFO:root:Bleu score for param 192: 19.193298462949556
+INFO:root:Bleu score for param 193: 26.600812111103497
+INFO:root:Bleu score for param 194: 19.202931238108697
+INFO:root:Bleu score for param 195: 27.02367912140134
+INFO:root:Bleu score for param 196: 19.202931238108697
+INFO:root:Bleu score for param 197: 27.168493203095164
+INFO:root:Bleu score for param 198: 19.129077998656857
+INFO:root:Bleu score for param 199: 19.129077998656857
+INFO:root:Bleu score for param 200: 19.13116441337453
+INFO:root:Bleu score for param 201: 19.132372990051543
+INFO:root:Bleu score for param 202: 19.13116441337453
+INFO:root:Bleu score for param 203: 19.134459995165695
+INFO:root:Bleu score for param 204: 19.133251286654243
+INFO:root:Bleu score for param 205: 19.149572182314266
+INFO:root:Bleu score for param 206: 19.142655350141315
+INFO:root:Bleu score for param 207: 19.463480082190554
+INFO:root:Bleu score for param 208: 19.171736304734434
+INFO:root:Bleu score for param 209: 20.123357104568186
+INFO:root:Bleu score for param 210: 19.177614200550465
+INFO:root:Bleu score for param 211: 21.92009976838403
+INFO:root:Bleu score for param 212: 19.1788220490339
+INFO:root:Bleu score for param 213: 24.870291387371598
+INFO:root:Bleu score for param 214: 19.18123706161705
+INFO:root:Bleu score for param 215: 26.600812111103497
+INFO:root:Bleu score for param 216: 19.19088800155662
+INFO:root:Bleu score for param 217: 27.02367912140134
+INFO:root:Bleu score for param 218: 19.19088800155662
+INFO:root:Bleu score for param 219: 27.168493203095164
+INFO:root:Bleu score for param 220: 19.129077998656857
+INFO:root:Bleu score for param 221: 19.129077998656857
+INFO:root:Bleu score for param 222: 19.13116441337453
+INFO:root:Bleu score for param 223: 19.132372990051543
+INFO:root:Bleu score for param 224: 19.13116441337453
+INFO:root:Bleu score for param 225: 19.134459995165695
+INFO:root:Bleu score for param 226: 19.133251286654243
+INFO:root:Bleu score for param 227: 19.149572182314266
+INFO:root:Bleu score for param 228: 19.142655350141315
+INFO:root:Bleu score for param 229: 19.463480082190554
+INFO:root:Bleu score for param 230: 19.163926552218125
+INFO:root:Bleu score for param 231: 20.123357104568186
+INFO:root:Bleu score for param 232: 19.16859629746353
+INFO:root:Bleu score for param 233: 21.92009976838403
+INFO:root:Bleu score for param 234: 19.16859629746353
+INFO:root:Bleu score for param 235: 24.870291387371598
+INFO:root:Bleu score for param 236: 19.16859629746353
+INFO:root:Bleu score for param 237: 26.600812111103497
+INFO:root:Bleu score for param 238: 19.178257891406638
+INFO:root:Bleu score for param 239: 27.02367912140134
+INFO:root:Bleu score for param 240: 19.178257891406638
+INFO:root:Bleu score for param 241: 27.168493203095164
+INFO:root:Bleu score for param 242: 19.129077998656857
+INFO:root:Bleu score for param 243: 19.129077998656857
+INFO:root:Bleu score for param 244: 19.13116441337453
+INFO:root:Bleu score for param 245: 19.132372990051543
+INFO:root:Bleu score for param 246: 19.13116441337453
+INFO:root:Bleu score for param 247: 19.134459995165695
+INFO:root:Bleu score for param 248: 19.133251286654243
+INFO:root:Bleu score for param 249: 19.149572182314266
+INFO:root:Bleu score for param 250: 19.142655350141315
+INFO:root:Bleu score for param 251: 19.463480082190554
+INFO:root:Bleu score for param 252: 19.163926552218125
+INFO:root:Bleu score for param 253: 20.123357104568186
+INFO:root:Bleu score for param 254: 19.16738757050999
+INFO:root:Bleu score for param 255: 21.92009976838403
+INFO:root:Bleu score for param 256: 19.16738757050999
+INFO:root:Bleu score for param 257: 24.870291387371598
+INFO:root:Bleu score for param 258: 19.16738757050999
+INFO:root:Bleu score for param 259: 26.600812111103497
+INFO:root:Bleu score for param 260: 19.16738757050999
+INFO:root:Bleu score for param 261: 27.02367912140134
+INFO:root:Bleu score for param 262: 19.16738757050999
+INFO:root:Bleu score for param 263: 27.168493203095164
+INFO:root:Bleu score for param 264: 19.129077998656857
+INFO:root:Bleu score for param 265: 19.129077998656857
+INFO:root:Bleu score for param 266: 19.13116441337453
+INFO:root:Bleu score for param 267: 19.132372990051543
+INFO:root:Bleu score for param 268: 19.13116441337453
+INFO:root:Bleu score for param 269: 19.134459995165695
+INFO:root:Bleu score for param 270: 19.133251286654243
+INFO:root:Bleu score for param 271: 19.149572182314266
+INFO:root:Bleu score for param 272: 19.142655350141315
+INFO:root:Bleu score for param 273: 19.463480082190554
+INFO:root:Bleu score for param 274: 19.150130583463294
+INFO:root:Bleu score for param 275: 20.123357104568186
+INFO:root:Bleu score for param 276: 19.150130583463294
+INFO:root:Bleu score for param 277: 21.92009976838403
+INFO:root:Bleu score for param 278: 19.150130583463294
+INFO:root:Bleu score for param 279: 24.870291387371598
+INFO:root:Bleu score for param 280: 19.150130583463294
+INFO:root:Bleu score for param 281: 26.600812111103497
+INFO:root:Bleu score for param 282: 19.150130583463294
+INFO:root:Bleu score for param 283: 27.02367912140134
+INFO:root:Bleu score for param 284: 19.150130583463294
+INFO:root:Bleu score for param 285: 27.168493203095164
+INFO:root:Bleu score for param 286: 19.129077998656857
+INFO:root:Bleu score for param 287: 19.129077998656857
+INFO:root:Bleu score for param 288: 19.13116441337453
+INFO:root:Bleu score for param 289: 19.132372990051543
+INFO:root:Bleu score for param 290: 19.13116441337453
+INFO:root:Bleu score for param 291: 19.134459995165695
+INFO:root:Bleu score for param 292: 19.133251286654243
+INFO:root:Bleu score for param 293: 19.149572182314266
+INFO:root:Bleu score for param 294: 19.142655350141315
+INFO:root:Bleu score for param 295: 19.463480082190554
+INFO:root:Bleu score for param 296: 19.150130583463294
+INFO:root:Bleu score for param 297: 20.123357104568186
+INFO:root:Bleu score for param 298: 19.150130583463294
+INFO:root:Bleu score for param 299: 21.92009976838403
+INFO:root:Bleu score for param 300: 19.150130583463294
+INFO:root:Bleu score for param 301: 24.870291387371598
+INFO:root:Bleu score for param 302: 19.150130583463294
+INFO:root:Bleu score for param 303: 26.600812111103497
+INFO:root:Bleu score for param 304: 19.150130583463294
+INFO:root:Bleu score for param 305: 27.02367912140134
+INFO:root:Bleu score for param 306: 19.150130583463294
+INFO:root:Bleu score for param 307: 27.168493203095164
+INFO:root:Bleu score for param 308: 19.129077998656857
+INFO:root:Bleu score for param 309: 19.129077998656857
+INFO:root:Bleu score for param 310: 19.13116441337453
+INFO:root:Bleu score for param 311: 19.132372990051543
+INFO:root:Bleu score for param 312: 19.13116441337453
+INFO:root:Bleu score for param 313: 19.134459995165695
+INFO:root:Bleu score for param 314: 19.133251286654243
+INFO:root:Bleu score for param 315: 19.149572182314266
+INFO:root:Bleu score for param 316: 19.142655350141315
+INFO:root:Bleu score for param 317: 19.463480082190554
+INFO:root:Bleu score for param 318: 19.150130583463294
+INFO:root:Bleu score for param 319: 20.123357104568186
+INFO:root:Bleu score for param 320: 19.150130583463294
+INFO:root:Bleu score for param 321: 21.92009976838403
+INFO:root:Bleu score for param 322: 19.150130583463294
+INFO:root:Bleu score for param 323: 24.870291387371598
+INFO:root:Bleu score for param 324: 19.150130583463294
+INFO:root:Bleu score for param 325: 26.600812111103497
+INFO:root:Bleu score for param 326: 19.150130583463294
+INFO:root:Bleu score for param 327: 27.02367912140134
+INFO:root:Bleu score for param 328: 19.150130583463294
+INFO:root:Bleu score for param 329: 27.168493203095164
+INFO:root:Bleu score for param 330: 19.129077998656857
+INFO:root:Bleu score for param 331: 19.129077998656857
+INFO:root:Bleu score for param 332: 19.13116441337453
+INFO:root:Bleu score for param 333: 19.132372990051543
+INFO:root:Bleu score for param 334: 19.13116441337453
+INFO:root:Bleu score for param 335: 19.134459995165695
+INFO:root:Bleu score for param 336: 19.133251286654243
+INFO:root:Bleu score for param 337: 19.149572182314266
+INFO:root:Bleu score for param 338: 19.142655350141315
+INFO:root:Bleu score for param 339: 19.463480082190554
+INFO:root:Bleu score for param 340: 19.150130583463294
+INFO:root:Bleu score for param 341: 20.123357104568186
+INFO:root:Bleu score for param 342: 19.150130583463294
+INFO:root:Bleu score for param 343: 21.92009976838403
+INFO:root:Bleu score for param 344: 19.150130583463294
+INFO:root:Bleu score for param 345: 24.870291387371598
+INFO:root:Bleu score for param 346: 19.150130583463294
+INFO:root:Bleu score for param 347: 26.600812111103497
+INFO:root:Bleu score for param 348: 19.150130583463294
+INFO:root:Bleu score for param 349: 27.02367912140134
+INFO:root:Bleu score for param 350: 19.150130583463294
+INFO:root:Bleu score for param 351: 27.168493203095164
+INFO:root:Bleu score for param 352: 19.718438908801865
+INFO:root:Bleu score for param 353: 19.718438908801865
+INFO:root:Bleu score for param 354: 19.721902722530093
+INFO:root:Bleu score for param 355: 19.721902722530093
+INFO:root:Bleu score for param 356: 19.72412136258323
+INFO:root:Bleu score for param 357: 19.72412136258323
+INFO:root:Bleu score for param 358: 19.74003639621215
+INFO:root:Bleu score for param 359: 19.74003639621215
+INFO:root:Bleu score for param 360: 20.05819905388844
+INFO:root:Bleu score for param 361: 20.05819905388844
+INFO:root:Bleu score for param 362: 20.74255984085246
+INFO:root:Bleu score for param 363: 20.74255984085246
+INFO:root:Bleu score for param 364: 22.5399570244419
+INFO:root:Bleu score for param 365: 22.5399570244419
+INFO:root:Bleu score for param 366: 25.44506171293407
+INFO:root:Bleu score for param 367: 25.446356396415148
+INFO:root:Bleu score for param 368: 26.96320492382726
+INFO:root:Bleu score for param 369: 26.964513467905448
+INFO:root:Bleu score for param 370: 27.326928269516806
+INFO:root:Bleu score for param 371: 27.328241211998762
+INFO:root:Bleu score for param 372: 27.473978567492207
+INFO:root:Bleu score for param 373: 27.475290506877922
+INFO:root:Bleu score for param 374: 19.718438908801865
+INFO:root:Bleu score for param 375: 19.718438908801865
+INFO:root:Bleu score for param 376: 19.721902722530093
+INFO:root:Bleu score for param 377: 19.721902722530093
+INFO:root:Bleu score for param 378: 19.72412136258323
+INFO:root:Bleu score for param 379: 19.72412136258323
+INFO:root:Bleu score for param 380: 19.74003639621215
+INFO:root:Bleu score for param 381: 19.74003639621215
+INFO:root:Bleu score for param 382: 20.05819905388844
+INFO:root:Bleu score for param 383: 20.05819905388844
+INFO:root:Bleu score for param 384: 20.671617211490265
+INFO:root:Bleu score for param 385: 20.74255984085246
+INFO:root:Bleu score for param 386: 22.32376939290991
+INFO:root:Bleu score for param 387: 22.5399570244419
+INFO:root:Bleu score for param 388: 24.490325260099134
+INFO:root:Bleu score for param 389: 25.446356396415148
+INFO:root:Bleu score for param 390: 25.667258792009214
+INFO:root:Bleu score for param 391: 26.964513467905448
+INFO:root:Bleu score for param 392: 25.984206029873704
+INFO:root:Bleu score for param 393: 27.328241211998762
+INFO:root:Bleu score for param 394: 26.12952713993648
+INFO:root:Bleu score for param 395: 27.475290506877922
+INFO:root:Bleu score for param 396: 19.718438908801865
+INFO:root:Bleu score for param 397: 19.718438908801865
+INFO:root:Bleu score for param 398: 19.720656905732085
+INFO:root:Bleu score for param 399: 19.721902722530093
+INFO:root:Bleu score for param 400: 19.722875405635506
+INFO:root:Bleu score for param 401: 19.72412136258323
+INFO:root:Bleu score for param 402: 19.73879006376308
+INFO:root:Bleu score for param 403: 19.74003639621215
+INFO:root:Bleu score for param 404: 20.02001214189118
+INFO:root:Bleu score for param 405: 20.05819905388844
+INFO:root:Bleu score for param 406: 20.462135701804495
+INFO:root:Bleu score for param 407: 20.74255984085246
+INFO:root:Bleu score for param 408: 21.43167483102894
+INFO:root:Bleu score for param 409: 22.5399570244419
+INFO:root:Bleu score for param 410: 22.928419962194074
+INFO:root:Bleu score for param 411: 25.446356396415148
+INFO:root:Bleu score for param 412: 23.508866509099633
+INFO:root:Bleu score for param 413: 26.964513467905448
+INFO:root:Bleu score for param 414: 23.609087505096845
+INFO:root:Bleu score for param 415: 27.328241211998762
+INFO:root:Bleu score for param 416: 23.613945711450015
+INFO:root:Bleu score for param 417: 27.475290506877922
+INFO:root:Bleu score for param 418: 19.718438908801865
+INFO:root:Bleu score for param 419: 19.718438908801865
+INFO:root:Bleu score for param 420: 19.720656905732085
+INFO:root:Bleu score for param 421: 19.721902722530093
+INFO:root:Bleu score for param 422: 19.722875405635506
+INFO:root:Bleu score for param 423: 19.72412136258323
+INFO:root:Bleu score for param 424: 19.73879006376308
+INFO:root:Bleu score for param 425: 19.74003639621215
+INFO:root:Bleu score for param 426: 19.982851205798255
+INFO:root:Bleu score for param 427: 20.05819905388844
+INFO:root:Bleu score for param 428: 20.241404406759482
+INFO:root:Bleu score for param 429: 20.74255984085246
+INFO:root:Bleu score for param 430: 20.67049792483672
+INFO:root:Bleu score for param 431: 22.5399570244419
+INFO:root:Bleu score for param 432: 21.37593778402206
+INFO:root:Bleu score for param 433: 25.446356396415148
+INFO:root:Bleu score for param 434: 21.73253028742574
+INFO:root:Bleu score for param 435: 26.964513467905448
+INFO:root:Bleu score for param 436: 21.7967409206433
+INFO:root:Bleu score for param 437: 27.328241211998762
+INFO:root:Bleu score for param 438: 21.7967409206433
+INFO:root:Bleu score for param 439: 27.475290506877922
+INFO:root:Bleu score for param 440: 19.720656905732085
+INFO:root:Bleu score for param 441: 19.720656905732085
+INFO:root:Bleu score for param 442: 19.722875405635506
+INFO:root:Bleu score for param 443: 19.72412136258323
+INFO:root:Bleu score for param 444: 19.722875405635506
+INFO:root:Bleu score for param 445: 19.726340505813802
+INFO:root:Bleu score for param 446: 19.73078030249755
+INFO:root:Bleu score for param 447: 19.742258599879992
+INFO:root:Bleu score for param 448: 19.89226947226722
+INFO:root:Bleu score for param 449: 20.0604599182001
+INFO:root:Bleu score for param 450: 20.02054101101252
+INFO:root:Bleu score for param 451: 20.74255984085246
+INFO:root:Bleu score for param 452: 20.195217123273633
+INFO:root:Bleu score for param 453: 22.5399570244419
+INFO:root:Bleu score for param 454: 20.4011277713971
+INFO:root:Bleu score for param 455: 25.446356396415148
+INFO:root:Bleu score for param 456: 20.672690952587455
+INFO:root:Bleu score for param 457: 26.964513467905448
+INFO:root:Bleu score for param 458: 20.728022637889953
+INFO:root:Bleu score for param 459: 27.328241211998762
+INFO:root:Bleu score for param 460: 20.728022637889953
+INFO:root:Bleu score for param 461: 27.475290506877922
+INFO:root:Bleu score for param 462: 19.720656905732085
+INFO:root:Bleu score for param 463: 19.720656905732085
+INFO:root:Bleu score for param 464: 19.722875405635506
+INFO:root:Bleu score for param 465: 19.72412136258323
+INFO:root:Bleu score for param 466: 19.722875405635506
+INFO:root:Bleu score for param 467: 19.726340505813802
+INFO:root:Bleu score for param 468: 19.728560152394365
+INFO:root:Bleu score for param 469: 19.742258599879992
+INFO:root:Bleu score for param 470: 19.789318263490976
+INFO:root:Bleu score for param 471: 20.0604599182001
+INFO:root:Bleu score for param 472: 19.865806653457327
+INFO:root:Bleu score for param 473: 20.74255984085246
+INFO:root:Bleu score for param 474: 19.946868999271707
+INFO:root:Bleu score for param 475: 22.5399570244419
+INFO:root:Bleu score for param 476: 20.028103760600537
+INFO:root:Bleu score for param 477: 25.446356396415148
+INFO:root:Bleu score for param 478: 20.20169913375536
+INFO:root:Bleu score for param 479: 26.964513467905448
+INFO:root:Bleu score for param 480: 20.256957496612056
+INFO:root:Bleu score for param 481: 27.328241211998762
+INFO:root:Bleu score for param 482: 20.256957496612056
+INFO:root:Bleu score for param 483: 27.475290506877922
+INFO:root:Bleu score for param 484: 19.720656905732085
+INFO:root:Bleu score for param 485: 19.720656905732085
+INFO:root:Bleu score for param 486: 19.722875405635506
+INFO:root:Bleu score for param 487: 19.72412136258323
+INFO:root:Bleu score for param 488: 19.722875405635506
+INFO:root:Bleu score for param 489: 19.726340505813802
+INFO:root:Bleu score for param 490: 19.726340505813802
+INFO:root:Bleu score for param 491: 19.742258599879992
+INFO:root:Bleu score for param 492: 19.754894303981064
+INFO:root:Bleu score for param 493: 20.0604599182001
+INFO:root:Bleu score for param 494: 19.8220603346463
+INFO:root:Bleu score for param 495: 20.74255984085246
+INFO:root:Bleu score for param 496: 19.86357470587944
+INFO:root:Bleu score for param 497: 22.5399570244419
+INFO:root:Bleu score for param 498: 19.89589530629245
+INFO:root:Bleu score for param 499: 25.446356396415148
+INFO:root:Bleu score for param 500: 19.936938813879532
+INFO:root:Bleu score for param 501: 26.964513467905448
+INFO:root:Bleu score for param 502: 19.94934744552495
+INFO:root:Bleu score for param 503: 27.328241211998762
+INFO:root:Bleu score for param 504: 19.94934744552495
+INFO:root:Bleu score for param 505: 27.475290506877922
+INFO:root:Bleu score for param 506: 19.720656905732085
+INFO:root:Bleu score for param 507: 19.720656905732085
+INFO:root:Bleu score for param 508: 19.722875405635506
+INFO:root:Bleu score for param 509: 19.72412136258323
+INFO:root:Bleu score for param 510: 19.722875405635506
+INFO:root:Bleu score for param 511: 19.726340505813802
+INFO:root:Bleu score for param 512: 19.726340505813802
+INFO:root:Bleu score for param 513: 19.742258599879992
+INFO:root:Bleu score for param 514: 19.738355515549678
+INFO:root:Bleu score for param 515: 20.0604599182001
+INFO:root:Bleu score for param 516: 19.796957920319308
+INFO:root:Bleu score for param 517: 20.74255984085246
+INFO:root:Bleu score for param 518: 19.81469593035232
+INFO:root:Bleu score for param 519: 22.5399570244419
+INFO:root:Bleu score for param 520: 19.834987884491003
+INFO:root:Bleu score for param 521: 25.446356396415148
+INFO:root:Bleu score for param 522: 19.842457284377968
+INFO:root:Bleu score for param 523: 26.964513467905448
+INFO:root:Bleu score for param 524: 19.852403381377826
+INFO:root:Bleu score for param 525: 27.328241211998762
+INFO:root:Bleu score for param 526: 19.852403381377826
+INFO:root:Bleu score for param 527: 27.475290506877922
+INFO:root:Bleu score for param 528: 19.720656905732085
+INFO:root:Bleu score for param 529: 19.720656905732085
+INFO:root:Bleu score for param 530: 19.722875405635506
+INFO:root:Bleu score for param 531: 19.72412136258323
+INFO:root:Bleu score for param 532: 19.722875405635506
+INFO:root:Bleu score for param 533: 19.726340505813802
+INFO:root:Bleu score for param 534: 19.726340505813802
+INFO:root:Bleu score for param 535: 19.742258599879992
+INFO:root:Bleu score for param 536: 19.728831991876216
+INFO:root:Bleu score for param 537: 20.0604599182001
+INFO:root:Bleu score for param 538: 19.759145959711496
+INFO:root:Bleu score for param 539: 20.74255984085246
+INFO:root:Bleu score for param 540: 19.766449898932912
+INFO:root:Bleu score for param 541: 22.5399570244419
+INFO:root:Bleu score for param 542: 19.785489656650626
+INFO:root:Bleu score for param 543: 25.446356396415148
+INFO:root:Bleu score for param 544: 19.792953533359427
+INFO:root:Bleu score for param 545: 26.964513467905448
+INFO:root:Bleu score for param 546: 19.80289225280205
+INFO:root:Bleu score for param 547: 27.328241211998762
+INFO:root:Bleu score for param 548: 19.80289225280205
+INFO:root:Bleu score for param 549: 27.475290506877922
+INFO:root:Bleu score for param 550: 19.720656905732085
+INFO:root:Bleu score for param 551: 19.720656905732085
+INFO:root:Bleu score for param 552: 19.722875405635506
+INFO:root:Bleu score for param 553: 19.72412136258323
+INFO:root:Bleu score for param 554: 19.722875405635506
+INFO:root:Bleu score for param 555: 19.726340505813802
+INFO:root:Bleu score for param 556: 19.725094408684587
+INFO:root:Bleu score for param 557: 19.742258599879992
+INFO:root:Bleu score for param 558: 19.7275863668429
+INFO:root:Bleu score for param 559: 20.0604599182001
+INFO:root:Bleu score for param 560: 19.757900308265768
+INFO:root:Bleu score for param 561: 20.74255984085246
+INFO:root:Bleu score for param 562: 19.76395995117313
+INFO:root:Bleu score for param 563: 22.5399570244419
+INFO:root:Bleu score for param 564: 19.76520504268094
+INFO:root:Bleu score for param 565: 25.446356396415148
+INFO:root:Bleu score for param 566: 19.767694520032737
+INFO:root:Bleu score for param 567: 26.964513467905448
+INFO:root:Bleu score for param 568: 19.777643035773533
+INFO:root:Bleu score for param 569: 27.328241211998762
+INFO:root:Bleu score for param 570: 19.777643035773533
+INFO:root:Bleu score for param 571: 27.475290506877922
+INFO:root:Bleu score for param 572: 19.720656905732085
+INFO:root:Bleu score for param 573: 19.720656905732085
+INFO:root:Bleu score for param 574: 19.722875405635506
+INFO:root:Bleu score for param 575: 19.72412136258323
+INFO:root:Bleu score for param 576: 19.722875405635506
+INFO:root:Bleu score for param 577: 19.726340505813802
+INFO:root:Bleu score for param 578: 19.725094408684587
+INFO:root:Bleu score for param 579: 19.742258599879992
+INFO:root:Bleu score for param 580: 19.7275863668429
+INFO:root:Bleu score for param 581: 20.0604599182001
+INFO:root:Bleu score for param 582: 19.74971535708486
+INFO:root:Bleu score for param 583: 20.74255984085246
+INFO:root:Bleu score for param 584: 19.754529564038748
+INFO:root:Bleu score for param 585: 22.5399570244419
+INFO:root:Bleu score for param 586: 19.754529564038748
+INFO:root:Bleu score for param 587: 25.446356396415148
+INFO:root:Bleu score for param 588: 19.754529564038748
+INFO:root:Bleu score for param 589: 26.964513467905448
+INFO:root:Bleu score for param 590: 19.76448899728245
+INFO:root:Bleu score for param 591: 27.328241211998762
+INFO:root:Bleu score for param 592: 19.76448899728245
+INFO:root:Bleu score for param 593: 27.475290506877922
+INFO:root:Bleu score for param 594: 19.720656905732085
+INFO:root:Bleu score for param 595: 19.720656905732085
+INFO:root:Bleu score for param 596: 19.722875405635506
+INFO:root:Bleu score for param 597: 19.72412136258323
+INFO:root:Bleu score for param 598: 19.722875405635506
+INFO:root:Bleu score for param 599: 19.726340505813802
+INFO:root:Bleu score for param 600: 19.725094408684587
+INFO:root:Bleu score for param 601: 19.742258599879992
+INFO:root:Bleu score for param 602: 19.7275863668429
+INFO:root:Bleu score for param 603: 20.0604599182001
+INFO:root:Bleu score for param 604: 19.74971535708486
+INFO:root:Bleu score for param 605: 20.74255984085246
+INFO:root:Bleu score for param 606: 19.75328357522407
+INFO:root:Bleu score for param 607: 22.5399570244419
+INFO:root:Bleu score for param 608: 19.75328357522407
+INFO:root:Bleu score for param 609: 25.446356396415148
+INFO:root:Bleu score for param 610: 19.75328357522407
+INFO:root:Bleu score for param 611: 26.964513467905448
+INFO:root:Bleu score for param 612: 19.75328357522407
+INFO:root:Bleu score for param 613: 27.328241211998762
+INFO:root:Bleu score for param 614: 19.75328357522407
+INFO:root:Bleu score for param 615: 27.475290506877922
+INFO:root:Bleu score for param 616: 19.720656905732085
+INFO:root:Bleu score for param 617: 19.720656905732085
+INFO:root:Bleu score for param 618: 19.722875405635506
+INFO:root:Bleu score for param 619: 19.72412136258323
+INFO:root:Bleu score for param 620: 19.722875405635506
+INFO:root:Bleu score for param 621: 19.726340505813802
+INFO:root:Bleu score for param 622: 19.725094408684587
+INFO:root:Bleu score for param 623: 19.742258599879992
+INFO:root:Bleu score for param 624: 19.7275863668429
+INFO:root:Bleu score for param 625: 20.0604599182001
+INFO:root:Bleu score for param 626: 19.735493283589975
+INFO:root:Bleu score for param 627: 20.74255984085246
+INFO:root:Bleu score for param 628: 19.735493283589975
+INFO:root:Bleu score for param 629: 22.5399570244419
+INFO:root:Bleu score for param 630: 19.735493283589975
+INFO:root:Bleu score for param 631: 25.446356396415148
+INFO:root:Bleu score for param 632: 19.735493283589975
+INFO:root:Bleu score for param 633: 26.964513467905448
+INFO:root:Bleu score for param 634: 19.735493283589975
+INFO:root:Bleu score for param 635: 27.328241211998762
+INFO:root:Bleu score for param 636: 19.735493283589975
+INFO:root:Bleu score for param 637: 27.475290506877922
+INFO:root:Bleu score for param 638: 19.720656905732085
+INFO:root:Bleu score for param 639: 19.720656905732085
+INFO:root:Bleu score for param 640: 19.722875405635506
+INFO:root:Bleu score for param 641: 19.72412136258323
+INFO:root:Bleu score for param 642: 19.722875405635506
+INFO:root:Bleu score for param 643: 19.726340505813802
+INFO:root:Bleu score for param 644: 19.725094408684587
+INFO:root:Bleu score for param 645: 19.742258599879992
+INFO:root:Bleu score for param 646: 19.7275863668429
+INFO:root:Bleu score for param 647: 20.0604599182001
+INFO:root:Bleu score for param 648: 19.735493283589975
+INFO:root:Bleu score for param 649: 20.74255984085246
+INFO:root:Bleu score for param 650: 19.735493283589975
+INFO:root:Bleu score for param 651: 22.5399570244419
+INFO:root:Bleu score for param 652: 19.735493283589975
+INFO:root:Bleu score for param 653: 25.446356396415148
+INFO:root:Bleu score for param 654: 19.735493283589975
+INFO:root:Bleu score for param 655: 26.964513467905448
+INFO:root:Bleu score for param 656: 19.735493283589975
+INFO:root:Bleu score for param 657: 27.328241211998762
+INFO:root:Bleu score for param 658: 19.735493283589975
+INFO:root:Bleu score for param 659: 27.475290506877922
+INFO:root:Bleu score for param 660: 19.720656905732085
+INFO:root:Bleu score for param 661: 19.720656905732085
+INFO:root:Bleu score for param 662: 19.722875405635506
+INFO:root:Bleu score for param 663: 19.72412136258323
+INFO:root:Bleu score for param 664: 19.722875405635506
+INFO:root:Bleu score for param 665: 19.726340505813802
+INFO:root:Bleu score for param 666: 19.725094408684587
+INFO:root:Bleu score for param 667: 19.742258599879992
+INFO:root:Bleu score for param 668: 19.7275863668429
+INFO:root:Bleu score for param 669: 20.0604599182001
+INFO:root:Bleu score for param 670: 19.735493283589975
+INFO:root:Bleu score for param 671: 20.74255984085246
+INFO:root:Bleu score for param 672: 19.735493283589975
+INFO:root:Bleu score for param 673: 22.5399570244419
+INFO:root:Bleu score for param 674: 19.735493283589975
+INFO:root:Bleu score for param 675: 25.446356396415148
+INFO:root:Bleu score for param 676: 19.735493283589975
+INFO:root:Bleu score for param 677: 26.964513467905448
+INFO:root:Bleu score for param 678: 19.735493283589975
+INFO:root:Bleu score for param 679: 27.328241211998762
+INFO:root:Bleu score for param 680: 19.735493283589975
+INFO:root:Bleu score for param 681: 27.475290506877922
+INFO:root:Bleu score for param 682: 19.720656905732085
+INFO:root:Bleu score for param 683: 19.720656905732085
+INFO:root:Bleu score for param 684: 19.722875405635506
+INFO:root:Bleu score for param 685: 19.72412136258323
+INFO:root:Bleu score for param 686: 19.722875405635506
+INFO:root:Bleu score for param 687: 19.726340505813802
+INFO:root:Bleu score for param 688: 19.725094408684587
+INFO:root:Bleu score for param 689: 19.742258599879992
+INFO:root:Bleu score for param 690: 19.7275863668429
+INFO:root:Bleu score for param 691: 20.0604599182001
+INFO:root:Bleu score for param 692: 19.735493283589975
+INFO:root:Bleu score for param 693: 20.74255984085246
+INFO:root:Bleu score for param 694: 19.735493283589975
+INFO:root:Bleu score for param 695: 22.5399570244419
+INFO:root:Bleu score for param 696: 19.735493283589975
+INFO:root:Bleu score for param 697: 25.446356396415148
+INFO:root:Bleu score for param 698: 19.735493283589975
+INFO:root:Bleu score for param 699: 26.964513467905448
+INFO:root:Bleu score for param 700: 19.735493283589975
+INFO:root:Bleu score for param 701: 27.328241211998762
+INFO:root:Bleu score for param 702: 19.735493283589975
+INFO:root:Bleu score for param 703: 27.475290506877922
+INFO:root:Start translating test data with best param #373
+INFO:root:('default', 5.0, 0.7, 'ours')
